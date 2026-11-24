@@ -1,0 +1,6 @@
+{
+  "name": "DoList",
+  "description": "A clean, responsive To-Do List dashboard powered by React and Supabase with email authentication and Row Level Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
